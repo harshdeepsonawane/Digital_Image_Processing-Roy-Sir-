@@ -1,0 +1,17 @@
+pgm,ppm (man ppm)
+convert (imageMagick)
+magic Number
+maxVal
+Rotate Image
+Mirror Image
+Quantization
+Converting image to greyscale image (make the average of triplate)
+Thresholding
+slicing
+What if you off the LSB bit of each pixel value and compared it with original image, will you notice anything different?
+Contrast - DIfference between two adjcent pixels
+Change the LSB bit of each pixel and compare it with original pixel.
+Equalization/ Histogram equalization.
+Frequency of each pixel
+Variance
+take an image with text in it...split the image where each imaga is one line. Now read and recognize each character of the image
